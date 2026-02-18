@@ -1,4 +1,7 @@
 # Assalamu'alaikum
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Muhammad+Bintang+Mudzaffar" />
+</p>
 # 💫 About Me:
 Hello<br>I study at Bhayangkara Jakarta Raya University<br>
 
@@ -18,5 +21,3 @@ Hello<br>I study at Bhayangkara Jakarta Raya University<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=StarK3410&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
