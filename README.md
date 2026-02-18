@@ -1,6 +1,6 @@
 # Assalamu'alaikum
 # 💫 About Me:
-Hello<br>I study at Bhayangkara University<br>
+Hello<br>I study at Bhayangkara Jakarta Raya University<br>
 
 
 ## 🌐 Socials:
