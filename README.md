@@ -1,6 +1,6 @@
 # Assalamu'alaikum
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Muhammad+Bintang+Mudzaffar;Informatics+Student;Future+FrontEnd+Developer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=DC143C&center=true&vCenter=true&width=600&lines=Muhammad+Bintang+Mudzaffar;Informatics+Student;Future+FrontEnd+Developer+🚀" />
 </p>
 
 # 💫 About Me:
